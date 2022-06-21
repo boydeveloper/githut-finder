@@ -15,7 +15,7 @@ function UserResults() {
     console.log(data);
   };
 
-  return <div>UserResults</div>;
+  return <>UserResults</>;
 }
 
 export default UserResults;
